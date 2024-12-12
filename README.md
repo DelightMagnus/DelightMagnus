@@ -1,4 +1,4 @@
-<h1>Hi, I'm Delight! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="[https://www.linkedin.com/in/delightesuikup/]">Virtual Assistant</a>, <a href="[https://www.youtube.com/c/joshmadakor]">Public Speaker</a></h1>
+<h1>Hi, I'm Delight! <br/><a href="https://www.linkedin.com/in/delightesuikup/">Data Analyst</a>, <a href="https://delightmagnus.my.canva.site/">Virtual Assistant</a>, <a href="[]">Public Speaker</a></h1>
 
 <h2>👨‍💻 Data Analysis:</h2>
 
